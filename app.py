@@ -347,4 +347,4 @@ if st.button("🚀 SOẠN GIÁO ÁN NGAY"):
 
 # --- CHÂN TRANG ---
 st.markdown("---")
-st.markdown("<div style='text-align: center; color: #666;'>© 2025 - Hoàng Trung Nghĩa - Trường Tiểu học Phú Bình - ĐT: 0978 502 144</div>", unsafe_allow_html=True)
+st.markdown("<div style='text-align: center; color: #666;'>© 2026 - Hoàng Trung Nghĩa - Trường Tiểu học Phú Bình - ĐT: 0978 502 144</div>", unsafe_allow_html=True)
